@@ -21,7 +21,7 @@
 <details>
   <summary>🏀 シュートゲーム</summary>
   
-  <img src="gif/game1.gif" width="600">
+  <img src="game1.gif" width="600">
   
   **説明:**  
   角度とパワーを調整してボールをゴールに入れる単純なシューティングゲームです。
@@ -31,7 +31,7 @@
 <details>
   <summary>⛏ 無限ジャンプゲーム</summary>
   
-  <img src="gif/game2.gif" width="600">
+  <img src="game2.gif" width="600">
   
   **説明:**  
   続けて生成される足場を踏んで、できるだけ高く上がるジャンプゲームです。
@@ -41,7 +41,7 @@
 <details>
   <summary>🍖 アイテム収集 + 障害物回避</summary>
   
-  <img src="gif/game3.gif" width="600">
+  <img src="game3.gif" width="600">
   
   **説明:**  
   アイテムを集めて障害物を避けながら、どんどん大きくなるキャラクターを操作するゲームです。
@@ -51,7 +51,7 @@
 <details>
   <summary>⏱ 制限時間スコアゲーム</summary>
   
-  <img src="gif/game4.gif" width="600">
+  <img src="game4.gif" width="600">
   
   **説明:**  
   60秒間でできるだけ多くの足場を踏んでスコアを上げるゲームです。
@@ -61,7 +61,7 @@
 <details>
   <summary>💥 衝突後リセットされるシューティングゲーム</summary>
   
-  <img src="gif/game5.gif" width="600">
+  <img src="game5.gif" width="600">
   
   **説明:**  
   ボールを発射してゴールを決めるゲームで、ボールが跳ね返ったり時間が経つとリセットされます。
