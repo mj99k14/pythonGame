@@ -13,7 +13,7 @@
 <details>
   <summary>🏀 슛 게임</summary>
   
-  <img src="gif/game1.gif" width="600">
+  <img src="game1.gif" width="600">
   
   **설명:**  
   각도와 파워를 조절해 공을 골대에 넣는 단순한 슈팅 게임입니다.
@@ -23,7 +23,7 @@
 <details>
   <summary>⛏ 무한 점프 게임</summary>
   
-  <img src="gif/game2.gif" width="600">
+  <img src="game2.gif" width="600">
   
   **설명:**  
   계속 생성되는 발판을 밟고 최대한 높이 올라가는 점프 게임입니다.
@@ -33,7 +33,7 @@
 <details>
   <summary>🍖 아이템 수집 + 장애물 피하기</summary>
   
-  <img src="gif/game3.gif" width="600">
+  <img src="game3.gif" width="600">
   
   **설명:**  
   아이템을 먹고 장애물을 피하며 점점 커지는 캐릭터를 조작하는 게임입니다.
@@ -43,7 +43,7 @@
 <details>
   <summary>⏱ 제한 시간 점수 게임</summary>
   
-  <img src="gif/game4.gif" width="600">
+  <img src="game4.gif" width="600">
   
   **설명:**  
   60초 동안 최대한 많은 발판을 밟아 점수를 올리는 게임입니다.
@@ -53,7 +53,7 @@
 <details>
   <summary>💥 충돌 후 리셋되는 슈팅 게임</summary>
   
-  <img src="gif/game5.gif" width="600">
+  <img src="game5.gif" width="600">
   
   **설명:**  
   공을 발사해 골대를 맞추는 게임으로, 공이 튕기거나 시간이 지나면 리셋됩니다.
