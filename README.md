@@ -1,3 +1,11 @@
+# 🎮 게임 모음 (Game Collection)
+
+이 프로젝트의 **README**는 다음 언어로 제공됩니다.  
+언어를 선택하세요:
+
+[🇯🇵 일본어 버전 보기](README.md)  
+[🇰🇷 한국어 버전 보기](README.kr.md)
+---
 
 # 🎮 ゲームコレクション (Game Collection)
 
